@@ -135,21 +135,21 @@ h3{
 .know{
   background-color: darkviolet;
   padding: 4em;
-  max-width: 15%;
+  width: 15%;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .us{
  background-color: plum;
  padding: 4em;
- max-width: 15%;
+ width: 15%;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .we{
  background-color: mediumorchid;
  padding: 4em;
- max-width: 15%;
+ width: 15%;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
