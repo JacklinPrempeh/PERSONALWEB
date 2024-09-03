@@ -1,20 +1,27 @@
 .page{
-    display: flex;
-    max-width: 100%;
-    background-image: url(../images/make.jpg);
+    /* display: flex; */
+    /* max-width: 100%; */
+    background-image: url(../images/sundress.jpg);
     background-size: cover;
+    /* background-size: cover; */
 }
 nav{
+    /* background-image: url(../images/lady.webp); */
     background-size: cover;
     display: flex;
     justify-content: center;
     gap: 7em;
     font-size: 1.5em;
-    color: white;
+    color: rgb(28, 146, 137);
     font-family: cursive;
     width: 100%;
 }
 a{
-    color: white;
+    color: rgb(190, 21, 21);
     text-decoration: none;
+}
+.glam{
+    text-align: center;
+    margin-top: 10em;
+    background-image: url(../images/lady.webp);
 }

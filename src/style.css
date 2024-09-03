@@ -10,10 +10,10 @@
     text-decoration: none;
 }
 nav{
-    background-size: cover;
+    /* background-size: cover; */
     display: flex;
     justify-content: center;
-    gap: 7em;
+    gap: 3em;
     font-size: 1.5em;
     color: white;
     font-family: cursive;
@@ -37,7 +37,8 @@ nav{
     width: 40%;
     top: 0;
     margin-left: 30%;
-    margin-top: 19%;
+    margin-top: 31.5em;
+    padding-top: 10em;
 }
 .boxtext{
     width: 52.5%;
@@ -128,35 +129,35 @@ h3{
 .new{
    background-color: indianred;
    padding: 4em;
-   width: 15%;
+   width: 20%;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .know{
   background-color: darkviolet;
   padding: 4em;
-  width: 15%;
+  width: 20%;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .us{
  background-color: plum;
  padding: 4em;
- width: 15%;
+ width: 20%;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .we{
  background-color: mediumorchid;
  padding: 4em;
- width: 15%;
+ width: 20%;
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
 .just{
     background-color: hotpink;
     padding: 4em;
-    max-width: 15%;
+    max-width: 20%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    font-style: italic;
 }
