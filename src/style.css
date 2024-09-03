@@ -49,7 +49,7 @@ h4{
     top: 15%;
     left: 25%;
     transform: translate(-90%, -50%);
-   font-size: 6em;
+   font-size: 3em;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    color: white;
 }
@@ -58,7 +58,7 @@ h4{
     top: 30%;
     left: 35%;
     transform: translate(-90%, -50%);
-   font-size: 5em;
+   font-size: 3em;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    color: white;
 }
@@ -67,7 +67,7 @@ h4{
     top: 60%;
     left: 35%;
     transform: translate(-90%, -50%);
-   font-size: 3em;
+   font-size: 2em;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    color: white; 
    background-color: peru;
@@ -81,7 +81,7 @@ h3{
     top: 10%;
     left: 55%;
     /* transform: translate(100%, -90%); */
-   font-size: 6em;
+   font-size: 3em;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    color: white; 
 }
@@ -90,7 +90,7 @@ h3{
     top: 35%;
     left: 35%;
     transform: translate(90%, -50%);
-   font-size: 5em;
+   font-size: 3em;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    color: white;
 }
@@ -99,7 +99,7 @@ h3{
     top: 60%;
     left: 50%;
     transform: translate(90%, -50%);
-   font-size: 3em;
+   font-size: 2em;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    color: peru; 
    background-color: whitesmoke;
