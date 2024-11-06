@@ -4,13 +4,13 @@
     max-width: 100%;
     background-image: url(../images/make.jpg);
     background-size: cover;
+    justify-content: center;
 }
 .hey{
     color: white;
     text-decoration: none;
 }
-nav{
-    /* background-size: cover; */
+/* nav{
     display: flex;
     justify-content: center;
     gap: 3em;
@@ -18,6 +18,17 @@ nav{
     color: white;
     font-family: cursive;
     max-width: 100%;
+} */
+ 
+nav{
+    
+    display: flex;
+    justify-content: center;
+    gap: 7em;
+    font-size: 1.5em;
+    color: white;
+    font-family: cursive;
+    width: 100%;
 }
 .images{
     display: flex;
@@ -33,12 +44,12 @@ nav{
     height: 45em;
 }
 .lady{
-    position: absolute;
-    width: 40%;
-    top: 0;
-    margin-left: 30%;
-    margin-top: 31.5em;
-    padding-top: 10em;
+    /* position: absolute; */
+    /* width: 40%; */
+    /* top: 50; */
+    /* margin-left: 30%; */
+    /* margin-top: 31.5em; */
+    /* padding-top: 10em; */
 }
 .boxtext{
     width: 52.5%;
@@ -164,4 +175,7 @@ h3{
 footer{
     background-color: fuchsia;
     padding-left: 2em;
+}
+form{
+    line-height: 2em;
 }

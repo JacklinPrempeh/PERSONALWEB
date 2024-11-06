@@ -1,0 +1,17 @@
+nav{
+    
+    display: flex;
+    justify-content: center;
+    gap: 7em;
+    font-size: 1.5em;
+    color: white;
+    font-family: cursive;
+    width: 100%;
+}
+.page{
+    display: flex;
+    max-width: 100%;
+    background-image: url(../images/make.jpg);
+    background-size: cover;
+    justify-content: center;
+}
